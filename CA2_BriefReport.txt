@@ -1,0 +1,23 @@
+B8IT105 Programming for Big Data
+(B8IT105_1920_TME2)
+
+CA2 – Car Rental Application
+
+Name: Ciarán Hudson 
+Student ID: 10379554
+
+Remit:
+Based on the Object Oriented lecture and sample code provided, extend the code to create the system for DBS Car Rental which has 40 cars in its inventory, made up of 20 petrol, 10 diesel, 6 electric, and 4 hybrid cars.
+Your application should users if they'd like to rent a car, the type of car and how many they'd like to rent. The rental status of the cars should be stored in some suitable storage mechanism - say a csv file.
+Unit tests should be written to ensure that your application is adequately tested.
+
+
+1)	Coding
+Python files and output uploaded to moodle and github
+
+
+2)	Learnings
+
+Unit Testing
+I had difficulty refactoring the code. When trying to split the function process-rental into multiple functions I kept getting errors related to self being undefined and I could not resolve the errors.
+And because I couldn’t break the function up I couldn’t do unit testing on it.
